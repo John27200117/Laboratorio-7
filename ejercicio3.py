@@ -13,4 +13,4 @@ def cadenaToDiccionario(texto):
     for j in diccionario:
         cantidad = diccionario[j]
         print(f"Palabra {j} se repite {cantidad}")
-cadenaToDiccionario("Yo no compro coco porque como poco coco, como poco coco como, poco coco compro.")
+cadenaToDiccionario("Tres tristes tigres, tragaban trigo en un trigal, en tres tristes trastos, tragaban trigo tres tristes tigres.")
